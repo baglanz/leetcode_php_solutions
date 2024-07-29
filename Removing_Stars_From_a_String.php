@@ -50,3 +50,6 @@ class Solution {
         return implode('', $stack);
     }
 }
+?>
+
+See on leetcode.com: https://leetcode.com/problems/removing-stars-from-a-string/description

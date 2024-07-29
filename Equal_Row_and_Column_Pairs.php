@@ -62,3 +62,6 @@ class Solution {
         return $result;
     }
 }
+?>
+
+See on leetcode.com: https://leetcode.com/problems/equal-row-and-column-pairs/description
